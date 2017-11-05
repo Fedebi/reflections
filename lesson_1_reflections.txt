@@ -1,0 +1,24 @@
+Fede's Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was helpful because you can see the difference and then note if there are some typo. 
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+  
+	Because you can restore some old file if you have had a mistake and moreover you can read the whole code history. 
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	I think the commit is a personal operation and different people can do "commit" in a different way but anyway is better because the version commit is always a run version instead a version saved automatically that might be contains several errors.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	I think Git was born for handle shared big project where all files are concatenated with each others. Instead the Google Docs don't have relation with other document.
+
+5) How can you use the commands git log and git diff to view the history of files?
+	First with the command "git log" I can find the recent "commit Ids" and then I can select two of these Ids and with the "git diff" I find all the change.
+6) How might using version control make you more confident to make changes that could break something?
+	I think the programmer is more relaxed with this typo of control.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+	I would like to see how to checkout a repository with message.
