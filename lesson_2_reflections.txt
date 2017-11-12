@@ -3,3 +3,18 @@
 
 2) How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area contains only the files i selected to will be committed. The staging area offer to me the possibility to select with accuracy the files to commit.
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+	I think is important execute the commit when you change logial concept
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	I think is helpful when i have to try new ideas that change most part of the code or simply to create a version little bit different from the master.
+
+5) How do the diagrams help you visualize the branch structure?
+	I think with diagram is immediate understand how the history is. For example i understand how many branch there are and if i do commit where my change will be included.
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The result is a single branch or a single commit that contains the commits of every single branch ordered by time.
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	I think automatic mergin is better but if it is impossible for conflicts then i pass to the manual.
