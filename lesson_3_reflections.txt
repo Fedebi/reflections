@@ -3,3 +3,9 @@
 
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   I prefer to have a total control of the version of my project. 
+
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Is possible make a branch only in the same repositry.
+Is possible to make a fork only on GitHub, from a repository to another.
+The Clone operation could be make in two different case: from Github to local and from local to local. 
+
